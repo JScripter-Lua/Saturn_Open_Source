@@ -239,7 +239,7 @@ MainTab:CreateSection("Main Functions")
 MainTab:CreateButton({
     Name = "Copy Discord Invite",
     Callback = function()
-        setclipboard("https://discord.gg/fGDfD7Rv")
+        setclipboard("https://discord.gg/6UaRDjBY42")
         notify("Discord", "Invite copied to clipboard")
     end
 })
