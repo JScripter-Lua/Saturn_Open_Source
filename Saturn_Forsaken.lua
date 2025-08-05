@@ -9,7 +9,7 @@ local Window = Rayfield:CreateWindow({
     ConfigurationSaving = {
         Enabled = true,
         FolderName = "SaturnHub",
-        FileName = "FeedBrainrot"
+        FileName = "Forsaken_Free"
     },
     Discord = {
         Enabled = true,
