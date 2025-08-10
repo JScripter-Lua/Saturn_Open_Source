@@ -92,7 +92,7 @@ local PlayerTab = Window:CreateTab("Player")
 local VoteTab = Window:CreateTab("Vote")
 local EspTab = Window:CreateTab("ESP")
 local ReviveTab = Window:CreateTab("Revive")
-local FakeTab = Window:CreateTab("Fake")
+-- local FakeTab = Window:CreateTab("Fake")
 local MiscTab = Window:CreateTab("Misc")
 
 -- Functions
