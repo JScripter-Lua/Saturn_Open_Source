@@ -65,7 +65,7 @@ local SettingsTab = Window:CreateTab("Settings")
 local MainSection = MainTab:CreateSection("Core Functions")
 
 local AutoGeneralToggle = MainTab:CreateToggle({
-   Name = "Auto General",
+   Name = "Auto Generater",
    CurrentValue = false,
    Flag = "AutoGeneral",
    Callback = function(Value)
