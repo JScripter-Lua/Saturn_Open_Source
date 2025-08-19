@@ -97,7 +97,7 @@ local AutoDigToggle = MainTab:CreateToggle({
                     task.wait(0.05)
                     VirtualInputManager:SendMouseButtonEvent(0, 0, 0, false, game, 0)
 
-                    task.wait(1.5)
+                    task.wait(3.5)
 
                     local vector = Vector3
                     local finishArgs = {
